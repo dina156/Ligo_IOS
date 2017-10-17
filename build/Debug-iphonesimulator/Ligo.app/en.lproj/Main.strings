@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "Sign in"; ObjectID = "07o-Y4-BEY"; */
+"07o-Y4-BEY.title" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Sign In / Sign Up"; ObjectID = "1lX-fn-hqI"; */
+"1lX-fn-hqI.normalTitle" = "Sign In / Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Give feedback"; ObjectID = "68Q-lv-ruj"; */
+"68Q-lv-ruj.normalTitle" = "Give feedback";
+
+/* Class = "UITabBarItem"; title = "Learn"; ObjectID = "9eB-ih-UUC"; */
+"9eB-ih-UUC.title" = "Learn";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "EN3-mQ-a1j"; */
+"EN3-mQ-a1j.title" = "Discover";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "G7M-p9-Btv"; */
+"G7M-p9-Btv.normalTitle" = "Sign in with Facebook";
+
+/* Class = "UITabBarItem"; title = "Do & Don't"; ObjectID = "GCC-wr-9J3"; */
+"GCC-wr-9J3.title" = "Do & Don't";
+
+/* Class = "UINavigationItem"; title = "Discover"; ObjectID = "MBG-VM-l1Q"; */
+"MBG-VM-l1Q.title" = "Discover";
+
+/* Class = "UINavigationItem"; title = "Learn"; ObjectID = "bU3-lL-K1U"; */
+"bU3-lL-K1U.title" = "Learn";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "cNa-Rt-6Ku"; */
+"cNa-Rt-6Ku.title" = "Setting";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "gPe-Fq-hIx"; */
+"gPe-Fq-hIx.title" = "Setting";
+
+/* Class = "UIButton"; normalTitle = "About & Help"; ObjectID = "iXC-X7-wmQ"; */
+"iXC-X7-wmQ.normalTitle" = "About & Help";
+
+/* Class = "UIButton"; normalTitle = "Rate this app"; ObjectID = "k1s-VR-VLm"; */
+"k1s-VR-VLm.normalTitle" = "Rate this app";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google"; ObjectID = "t3p-27-VLo"; */
+"t3p-27-VLo.normalTitle" = "Sign in with Google";
+
+/* Class = "UIButton"; normalTitle = "Study like pro"; ObjectID = "tFT-ve-QwJ"; */
+"tFT-ve-QwJ.normalTitle" = "Study like pro";
+
+/* Class = "UINavigationItem"; title = "Do & Don't"; ObjectID = "xlG-qD-LTn"; */
+"xlG-qD-LTn.title" = "Do & Don't";

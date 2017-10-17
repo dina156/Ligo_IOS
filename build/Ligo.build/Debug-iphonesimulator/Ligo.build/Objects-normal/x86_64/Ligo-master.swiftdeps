@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "4037fb4e0aee96a412a304c20671636c"
+build_time: [1506342529, 232473000]
+inputs:
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/ViewController.swift": [1503319342, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/NormTableViewCell.swift": [1504094919, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/DiscoveryItemTableViewCell.swift": [1505128183, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/Category.swift": [1504696813, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/DiscoverViewController.swift": [1506342529, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/AppDelegate.swift": [1503319342, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/DiscoveryItemTableViewController.swift": [1506342529, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/DiscoveryItem.swift": [1505135644, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/NormViewController.swift": [1506316073, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/SettingViewController.swift": [1503491081, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/Norm.swift": [1504700407, 0]
+  "/Users/mengsroinheng/Xcode/IOS/Ligo/Ligo/CategoryTableViewCell.swift": [1504099236, 0]
