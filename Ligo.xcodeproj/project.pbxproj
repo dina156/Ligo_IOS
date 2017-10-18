@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C9CEE5F1F96069D0088517C /* LearnCollectionViewCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9CEE5E1F96069D0088517C /* LearnCollectionViewCellTableViewCell.swift */; };
+		1C9CEE611F960D750088517C /* Learn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9CEE601F960D750088517C /* Learn.swift */; };
+		1C9CEE631F960E9D0088517C /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9CEE621F960E9D0088517C /* LearnViewController.swift */; };
 		60033D6A1F60260A002ACC70 /* DiscoveryItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60033D691F60260A002ACC70 /* DiscoveryItemTableViewController.swift */; };
 		605AB9431F4D9F1B007E93AA /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605AB9421F4D9F1B007E93AA /* SettingViewController.swift */; };
 		606588E61F66A07F00979951 /* DiscoveryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606588E51F66A07F00979951 /* DiscoveryItem.swift */; };
@@ -25,6 +28,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C9CEE5E1F96069D0088517C /* LearnCollectionViewCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnCollectionViewCellTableViewCell.swift; sourceTree = "<group>"; };
+		1C9CEE601F960D750088517C /* Learn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn.swift; sourceTree = "<group>"; };
+		1C9CEE621F960E9D0088517C /* LearnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
 		60033D691F60260A002ACC70 /* DiscoveryItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoveryItemTableViewController.swift; sourceTree = "<group>"; };
 		605AB9421F4D9F1B007E93AA /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		605AB9451F4DB683007E93AA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
@@ -64,6 +70,7 @@
 				60E6F82B1F54325200569145 /* DiscoverViewController.swift */,
 				60E6F8351F544F9A00569145 /* NormViewController.swift */,
 				60033D691F60260A002ACC70 /* DiscoveryItemTableViewController.swift */,
+				1C9CEE621F960E9D0088517C /* LearnViewController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -74,6 +81,7 @@
 				60E6F82D1F54399100569145 /* Category.swift */,
 				60E6F8331F544EDE00569145 /* Norm.swift */,
 				606588E51F66A07F00979951 /* DiscoveryItem.swift */,
+				1C9CEE601F960D750088517C /* Learn.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -84,6 +92,7 @@
 				60FE5BF21F56DDA700FD4C8D /* NormTableViewCell.swift */,
 				60FE5BF41F56F0FE00FD4C8D /* CategoryTableViewCell.swift */,
 				606588E71F66A27300979951 /* DiscoveryItemTableViewCell.swift */,
+				1C9CEE5E1F96069D0088517C /* LearnCollectionViewCellTableViewCell.swift */,
 			);
 			name = TableViewCell;
 			sourceTree = "<group>";
@@ -196,8 +205,11 @@
 				606588E81F66A27300979951 /* DiscoveryItemTableViewCell.swift in Sources */,
 				60E6F82E1F54399100569145 /* Category.swift in Sources */,
 				60E6F82C1F54325200569145 /* DiscoverViewController.swift in Sources */,
+				1C9CEE631F960E9D0088517C /* LearnViewController.swift in Sources */,
+				1C9CEE5F1F96069D0088517C /* LearnCollectionViewCellTableViewCell.swift in Sources */,
 				60BEDDC31F4B0CAE00A68066 /* AppDelegate.swift in Sources */,
 				60033D6A1F60260A002ACC70 /* DiscoveryItemTableViewController.swift in Sources */,
+				1C9CEE611F960D750088517C /* Learn.swift in Sources */,
 				606588E61F66A07F00979951 /* DiscoveryItem.swift in Sources */,
 				60E6F8361F544F9A00569145 /* NormViewController.swift in Sources */,
 				605AB9431F4D9F1B007E93AA /* SettingViewController.swift in Sources */,

@@ -1,20 +1,14 @@
 //
-//  DiscoveryItemTableViewCell.swift
+//  LearnCollectionViewCellTableViewCell.swift
 //  Ligo
 //
-//  Created by Mengsroin Heng on 9/11/17.
+//  Created by KEEN on 10/17/17.
 //  Copyright © 2017 Mengsroin Heng. All rights reserved.
 //
 
 import UIKit
 
-class DiscoveryItemTableViewCell: UITableViewCell {
-    @IBOutlet weak var englishLable: UILabel!
-    @IBOutlet weak var khmerLable: UILabel!
-    @IBOutlet weak var pronunciationLable: UILabel!
-    
-    
-    
+class LearnCollectionViewCellTableViewCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
